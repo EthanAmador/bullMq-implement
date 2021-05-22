@@ -1,0 +1,19 @@
+{
+  "name": "poc_bullmq",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bull-arena": "^3.21.0",
+    "bull-board": "^2.1.0",
+    "bull-master": "^1.0.5",
+    "bullmq": "^1.26.2",
+    "dotenv": "^9.0.2",
+    "express": "^4.17.1"
+  }
+}
